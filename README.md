@@ -59,7 +59,7 @@ Personal academic page of **Simone Toller**, environmental geochemist at the **I
   [📄 Article](https://www.mdpi.com/2073-4441/12/2/581) | 🔗 DOI: https://doi.org/10.3390/w12020581
 
 - **Water and sediments geochemistry and elemental fluxes on a Large Dam: case study of Ridracoli reservoir.** – *PhD Thesis, 2020*  
-  [📄 Full Text](https://amsdottorato.unibo.it/id/eprint/9782) | 🔗 DOI: https://doi.org/10.48676/unibo/amsdottorato/9782
+  [📄 Thesis](https://amsdottorato.unibo.it/id/eprint/9782) | 🔗 DOI: https://doi.org/10.48676/unibo/amsdottorato/9782
 
 ---
 
@@ -67,12 +67,15 @@ Personal academic page of **Simone Toller**, environmental geochemist at the **I
   [🔗 Zenodo](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest)
 
 - **Salinity, Turbidity, Wind from the S1-GB pylon at the LTER site Delta del Po and Costa Romagnola (2012-2021)**
+  
   [🧾 DOI](https://doi.org/10.5281/zenodo.10980111)
 
-- **Salinity, Turbidity, Wind from the E1 buoy at the LTER site Delta del Po and Costa Romagnola (2012-2021)**  
+- **Salinity, Turbidity, Wind from the E1 buoy at the LTER site Delta del Po and Costa Romagnola (2012-2021)**
+  
   [🧾 DOI](https://doi.org/10.5281/zenodo.10980386)
 
-- **Sea temperature, Dissolved oxygen, Chlorophyll-a from the E1 buoy at the LTER site Delta del Po and Costa Romagnola (2012-2022)**  
+- **Sea temperature, Dissolved oxygen, Chlorophyll-a from the E1 buoy at the LTER site Delta del Po and Costa Romagnola (2012-2022)**
+   
   [🧾 DOI](https://doi.org/10.5281/zenodo.14748898)
 
 ---

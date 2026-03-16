@@ -18,10 +18,29 @@ Personal academic page of **Simone Toller**, environmental geochemist at the **I
 
 ---
 
-## 📂 Datasets
+## 📂 Scientific Publications
+- **The Italian effort toward a coordinated observation of Essential Variables (EOV, ECV, EBV) in European Marine Environments. Long-term observation in the central Mediterranean seas and Italian coasts.** - DOI:
+- **A multi observation analysis of the 2017 dense water formation events: climate change, bottom density currents and Adriatic-Ionian Sea circulation (Mediterranean Sea).** - DOI: 10.1029/2024JC022306
+- **Decadal analysis of chlorophyll fluorescence, algal blooms and driving factors from a fixed-point observing system in the Northern Adriatic Sea.** - DOI: 10.1016/j.ecss.2025.109423
+- **Editorial: Modern management options for solid waste and by-products: sustainable treatment and environmental benefits.** - DOI: 10.3389/fenvs.2024.1385669
+- **Impact and recoverability of metals from waste: a case study on bottom ash from municipal solid waste incineration plants.** - DOI: 10.3389/fenvs.2023.1252313
+- **Sequential extraction procedure of municipal solid waste incineration (MSWI) bottom ash targeting grain size and the amorphous fraction.** - DOI: 10.3389/fenvs.2023.1254205
+- **Urban mining of municipal solid waste incineration (MSWI) residues with emphasis on bioleaching technologies: a critical review.** - DOI: 10.1007/s11356-023-26790-z
+- **Grain size and mineralogical constraints on leaching in the bottom ashes from municipal solid waste incineration: a comparison of five plants in northern Italy.** - DOI: 10.3389/fenvs.2023.1179272
+- **New insights into the migration, distribution and accumulation of micro-plastic in marine environment: A critical mechanism review.** - DOI: 10.1016/j.chemosphere.2023.138572
+- **Sediment quality of the Ridracoli fresh water reservoir in Italy: Insights from aqua regia digestion and sequential extractions.** - DOI: 10.1016/j.scitotenv.2022.154167
+- **Geochemical characterization of surface sediments from the Ridracoli reservoir area and surroundings, Italy. Details on bulk composition and grain size.** - DOI: 10.1016/j.gexplo.2021.106863
+- **Assessment of Seasonal Changes in Water Chemistry of the Ridracoli Water Reservoir (Italy): Implications for Water Management.** - DOI: 10.3390/w12020581
+- **Water and sediments geochemistry and elemental fluxes on a Large Dam: case study of Ridracoli reservoir.** - DOI: 10.48676/unibo/amsdottorato/9782
+
+---
+
+## 📂 Datasets with DOI
 
 - [Zenodo Uploads](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest) – (list of publicly available datasets)
-
+  - **Salinity, Turbidity, Wind from the S1-GB pylon at the LTER site Delta del Po and Costa Romagnola (2012-2021)** - DOI: https://doi.org/10.5281/zenodo.10980111
+  - **Salinity, Turbidity, Wind from the E1 buoy at the LTER site Delta del Po and Costa Romagnola (2012-2021)** - DOI: https://doi.org/10.5281/zenodo.10980386
+  - **Sea temperature, Dissolved oxygen, Chlorophyll-a from the E1 buoy at the LTER site Delta del Po and Costa Romagnola (2012-2022)** - DOI: https://doi.org/10.5281/zenodo.14748898
 ---
 
 ## 🏗 Projects

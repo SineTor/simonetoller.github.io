@@ -10,7 +10,7 @@ Personal academic page of **Simone Toller**, environmental geochemist at the **I
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5156--1869-green?logo=orcid)](https://orcid.org/0000-0001-5156-1869)
 [![Scopus](https://img.shields.io/badge/Scopus-57215597797-blue?logo=scopus)](https://www.scopus.com/authid/detail.uri?authorId=57215597797)
 
-- 🌐 [CNR ISMAR Staff](https://www.ismar.cnr.it/web-content/chi-siamo/staff/)  
+- 🌐 [CNR ISMAR Staff](https://www1.ismar.cnr.it/istituto/staff/))  
 - 🆔 [ORCID](https://orcid.org/0000-0001-5156-1869)  
 - 📚 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57215597797)  
 - 📖 [ResearchGate](https://www.researchgate.net/profile/Simone-Toller?ev=hdr_xprf)  

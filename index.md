@@ -1,4 +1,3 @@
-img src="/assets/img/Foto 2.jpg" alt="Simone Toller" width="200" style="border-radius: 100%; display: block; margin-left: auto; margin-right: auto;"/>
 ---
 layout: single
 title: "Simone Toller"

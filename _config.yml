@@ -1,20 +1,13 @@
 title: "Simone Toller – Marine Geochemist"
 description: "Official academic profile of Simone Toller, marine and environmental geochemist at CNR ISMAR."
-theme: "academicpages"
-remote_theme: "academicpages/academicpages.github.io"
+url: "https://simonetoller.com"
+
+# TEMA BASE (Minima) — Lo useremo come base per lo stile Academic semplificato
+theme: minima
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Single-page mode (no menu)
+# Evitiamo menu
 header_pages: []
-
-author:
-  name: "Simone Toller"
-  email: "simone.toller@cnr.it"
-  orcid: "0000-0001-5156-1869"
-  scholar: "https://scholar.google.com/citations?user=fy4Bq1oAAAAJ"
-  researchgate: "https://www.researchgate.net/profile/Simone-Toller"
-
-url: "https://simonetoller.com"

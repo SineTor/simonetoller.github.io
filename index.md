@@ -1,1 +1,4 @@
-{% seo %}
+---
+layout: default
+title: Home
+---

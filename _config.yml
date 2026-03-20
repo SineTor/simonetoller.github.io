@@ -1,0 +1,18 @@
+title: "Simone Toller – Marine Geochemist"
+description: "Official academic page of Simone Toller, marine and environmental geochemist at CNR ISMAR. Publications, datasets and research projects."
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+
+author:
+  name: "Simone Toller"
+  url: "https://simonetoller.com"
+  email: "simone.toller@cnr.it"
+
+social:
+  links:
+    - "https://orcid.org/0000-0001-5156-1869"
+    - "https://scholar.google.com/citations?user=fy4Bq1oAAAAJ"
+    - "https://www.researchgate.net/profile/Simone-Toller"
+    - "https://loop.frontiersin.org/people/3364125"

@@ -58,8 +58,8 @@ He contributes to the development and management of environmental observing syst
 
 ### Institutional Profiles
 
-- CNR ISMAR: https://www.ismar.cnr.it
-- CNR IRIS: https://iris.cnr.it
+- [CNR ISMAR](https://www.ismar.cnr.it)
+- [CNR IRIS](https://iris.cnr.it)
 
 ---
 

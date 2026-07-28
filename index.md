@@ -116,21 +116,17 @@ DOI: https://doi.org/10.5281/zenodo.10980386
 
 DOI: https://doi.org/10.5281/zenodo.14748898
 
-### Zenodo Profile
-
-https://zenodo.org
-
 ---
 
 ## Research Infrastructures and Projects
 
 ### ITINERIS
 
+Italian Integrated Environmental Research Infrastructures System
+
 National Research Infrastructure supporting integrated observation and study of terrestrial and marine ecosystems.
 
-Website:
-
-https://itineris.cnr.it
+[Website](https://itineris.cnr.it)
 
 Research topics:
 

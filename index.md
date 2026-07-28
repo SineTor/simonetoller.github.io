@@ -64,32 +64,13 @@ He contributes to the development and management of environmental observing syst
 
 ---
 
-## Publications
+## Selected Publications
 
-### The Italian effort toward a coordinated observation of Essential Variables (EOV, ECV, EBV) in European Marine Environments: Long-term observation in the central Mediterranean seas and Italian coasts
+- [The Italian effort toward a coordinated observation of Essential Variables (EOV, ECV, EBV) in European Marine Environments](https://doi.org/10.3389/fmars.2026.1771479) — Frontiers in Marine Science (2026)
 
-**Frontiers in Marine Science (2026)**
+- [A Multiobservation Analysis of the 2017 Dense Water Formation Events](https://doi.org/10.1029/2024JC022306) — Journal of Geophysical Research: Oceans (2025)
 
-DOI: https://doi.org/10.3389/fmars.2026.1771479
-
-### A Multiobservation Analysis of the 2017 Dense Water Formation Events: Climate Change, Bottom Density Currents, and Adriatic-Ionian Sea Circulation
-
-**Journal of Geophysical Research: Oceans (2025)**
-
-DOI: https://doi.org/10.1029/2024JC022306
-
-### Decadal Analysis of Chlorophyll Fluorescence, Algal Blooms and Driving Factors from a Fixed-Point Observing System in the Northern Adriatic Sea
-
-**Estuarine, Coastal and Shelf Science (2025)**
-
-DOI: https://doi.org/10.1016/j.ecss.2025.109423
-
-### Editorial: Modern management options for solid waste and by-products: sustainable treatment and environmental benefits
-
-**Estuarine, Coastal and Shelf Science (2025)**
-
-DOI: https://doi.org/10.3389/fenvs.2024.1385669
-
+- [Decadal Analysis of Chlorophyll Fluorescence, Algal Blooms and Driving Factors from a Fixed-Point Observing System in the Northern Adriatic Sea](https://doi.org/10.1016/j.ecss.2025.109423) — Estuarine, Coastal and Shelf Science (2025)
 
 ---
 

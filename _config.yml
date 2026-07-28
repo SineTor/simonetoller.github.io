@@ -1,5 +1,6 @@
-title: "Simone Toller – Marine Geochemist"
-description: "Marine & Environmental Geochemist at CNR ISMAR. Publications, datasets and research outputs."
+title: "Simone Toller"
+description: "Marine and Environmental Geochemist at CNR ISMAR. Scientific publications, datasets, research infrastructures, environmental monitoring, geochemistry, and FAIR data."
+
 theme: jekyll-theme-cayman
 
 plugins:
@@ -11,7 +12,15 @@ url: "https://simonetoller.com"
 author:
   name: "Simone Toller"
   email: "simone.toller@cnr.it"
-  orcid: "https://orcid.org/0000-0001-5156-1869"
-  scholar: "https://scholar.google.com/citations?user=fy4Bq1oAAAAJ"
-  scopus: "https://www.scopus.com/authid/detail.uri?authorId=57215597797"
-  researchgate: "https://www.researchgate.net/profile/Simone-Toller"
+
+orcid: "https://orcid.org/0000-0001-5156-1869"
+google_scholar: "https://scholar.google.com/citations?user=fy4Bq1oAAAAJ"
+scopus: "https://www.scopus.com/authid/detail.uri?authorId=57215597797"
+researchgate: "https://www.researchgate.net/profile/Simone-Toller"
+wos: "https://www.webofscience.com/wos/author/record/2372178"
+frontiers_loop: "https://loop.frontiersin.org/people/3364125/overview"
+
+lang: "en"
+
+github:
+  is_project_page: false

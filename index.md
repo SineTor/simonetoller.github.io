@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Simone Toller
-description: Marine and Environmental Geochemist at CNR ISMAR. Research on marine geochemistry, environmental monitoring, sediment quality, freshwater reservoirs, coastal systems, ocean observation systems, and FAIR scientific data.
+description: Marine and Environmental Geochemist at CNR ISMAR. 
+Research on marine geochemistry, environmental monitoring, ocean observation systems, and FAIR scientific data.
 ---
 
 # Simone Toller
@@ -16,7 +17,7 @@ National Research Council of Italy (CNR)
 
 ## About
 
-Simone Toller is a Technologist and Marine Environmental Geochemist at the Institute of Marine Science (ISMAR) of the National Research Council of Italy (CNR).
+Simone Toller is a Technologist and Marine Environmental Geochemist at the Institute of Marine Science (ISMAR) of the National Research Council of Italy (CNR) in Bologna, Italy.
 
 His research focuses on the biogeochemical dynamics of marine, coastal, and freshwater systems, with particular emphasis on sediment quality assessment, water chemistry, environmental monitoring, and long-term observation of aquatic ecosystems.
 
@@ -27,17 +28,16 @@ He contributes to the development and management of environmental observing syst
 ## Research Areas
 
 - Marine Geochemistry
-- Environmental Geochemistry
+- Environmental Monitoring
 - Sediment Quality Assessment
 - Freshwater Reservoirs
 - Coastal and Transitional Systems
-- Environmental Monitoring
 - Ocean Observation Systems
 - Long-Term Ecological Research (LTER)
 - Essential Ocean Variables (EOV)
 - Essential Biodiversity Variables (EBV)
 - Essential Climate Variables (ECV)
-- Biogeochemical Cycles
+- Biogeochemical Processes
 - FAIR Data Principles
 - Environmental Data Management
 
@@ -47,9 +47,9 @@ He contributes to the development and management of environmental observing syst
 
 ### Research Identifiers
 
-- ORCID: https://orcid.org/0000-0001-5156-1869
-- Scopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=57215597797
-- Web of Science Researcher Profile: https://www.webofscience.com/wos/author/record/2372178
+- [ORCID]([https://doi.org/10.3389/fmars.2026.1771479](https://orcid.org/0000-0001-5156-1869)
+- [Scopus Author ID]((https://www.scopus.com/authid/detail.uri?authorId=57215597797))
+- [Web of Science Researcher Profile](https://www.webofscience.com/wos/author/record/2372178)
 
 ### Scholarly Profiles
 

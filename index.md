@@ -104,17 +104,11 @@ He contributes to the development and management of environmental observing syst
 
 Research datasets are publicly available through Zenodo and are published with persistent Digital Object Identifiers (DOIs).
 
-### Salinity, Turbidity and Wind Data from the S1-GB Platform (2012–2021)
+### [Salinity, Turbidity and Wind Data from the S1-GB Platform (2012–2021)](https://doi.org/10.5281/zenodo.10980111)
 
-DOI: https://doi.org/10.5281/zenodo.10980111
+### [Salinity, Turbidity and Wind Data from the E1 Buoy (2012–2021)](https://doi.org/10.5281/zenodo.10980386)
 
-### Salinity, Turbidity and Wind Data from the E1 Buoy (2012–2021)
-
-DOI: https://doi.org/10.5281/zenodo.10980386
-
-### Sea Temperature, Dissolved Oxygen and Chlorophyll-a Data from the E1 Buoy (2012–2022)
-
-DOI: https://doi.org/10.5281/zenodo.14748898
+### [Sea Temperature, Dissolved Oxygen and Chlorophyll-a Data from the E1 Buoy (2012–2022)](https://doi.org/10.5281/zenodo.14748898)
 
 ---
 

@@ -1,92 +1,181 @@
 ---
 layout: default
-title: Home
+title: Simone Toller
+description: Marine and Environmental Geochemist at CNR ISMAR. Research on marine geochemistry, environmental monitoring, sediment quality, freshwater reservoirs, coastal systems, ocean observation systems, and biogeochemical cycles.
 ---
 
 <img src="/assets/img/profile.jpg"
      alt="Simone Toller"
-     style="width:180px;border-radius:50%;display:block;margin:0 auto 20px auto;" />
+     styleochemist
 
-# **Simone Toller**
-### Marine & Environmental Geochemist  
-**CNR ISMAR – Italian National Research Council**
-
----
-
-## 🔗 Academic Profiles
-
-<p align="center" style="font-size: 1.4em;">
-  <a href="https://orcid.org/0000-0001-5156-1869" target="_blank" style="margin:10px;">
-    <i class="fa-brands fa-orcid"></i> ORCID
-  </a> •
-  <a href="https://scholar.google.com/citations?user=fy4Bq1oAAAAJ" target="_blank" style="margin:10px;">
-    <i class="fa-brands fa-google"></i> Scholar
-  </a> •
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=57215597797" target="_blank" style="margin:10px;">
-    <i class="fa-solid fa-database"></i> Scopus
-  </a> •
-  <a href="https://www.researchgate.net/profile/Simone-Toller" target="_blank" style="margin:10px;">
-    <i class="fa-brands fa-researchgate"></i> ResearchGate
-  </a>
-</p>
+**Technologist – Institute of Marine Science (ISMAR)**  
+**National Research Council of Italy (CNR)**
 
 ---
 
-## 🧑‍🔬 About Me
+## About
 
-I am a marine and environmental geochemist at **CNR ISMAR**, working on sediment processes, biogeochemical cycles, environmental contaminants, and long-term marine observations in coastal and transitional systems.
+I am a Marine and Environmental Geochemist working at the Institute of Marine Science (ISMAR) of the National Research Council of Italy (CNR).
 
----
+My research focuses on environmental geochemistry, marine and freshwater systems, sediment quality assessment, water chemistry, biogeochemical cycles, environmental monitoring, ocean observation systems, and FAIR scientific data management.
 
-## 🌊 Research Interests
-
-- Marine geochemistry  
-- Sediment geochemistry  
-- Environmental contamination  
-- Biogeochemical cycles  
-- Long-term monitoring systems  
-- Essential Variables (EOV, EBV, ECV)
+I contribute to multidisciplinary research infrastructures supporting long-term ecosystem observation, environmental assessment, interoperability, and open science.
 
 ---
 
-# 📚 Scientific Publications (Selected)
+## Research Areas
 
-- **The Italian effort toward a coordinated observation of Essential Variables (EOV, ECV, EBV) in European Marine Environments. Long-term observation in the central Mediterranean seas and Italian coasts.** - DOI: https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1771479/abstract
-- **A multi observation analysis of the 2017 dense water formation events: climate change, bottom density currents and Adriatic-Ionian Sea circulation (Mediterranean Sea).** - DOI: 10.1029/2024JC022306 - https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC022306
-- **Decadal analysis of chlorophyll fluorescence, algal blooms and driving factors from a fixed-point observing system in the Northern Adriatic Sea.** - DOI: 10.1016/j.ecss.2025.109423 - https://www.sciencedirect.com/science/article/pii/S0272771425003014?via%3Dihub
-- **Editorial: Modern management options for solid waste and by-products: sustainable treatment and environmental benefits.** - DOI: 10.3389/fenvs.2024.1385669 - https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2024.1385669/full
-- **Impact and recoverability of metals from waste: a case study on bottom ash from municipal solid waste incineration plants.** - DOI: 10.3389/fenvs.2023.1252313 - https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1252313/full
-- **Sequential extraction procedure of municipal solid waste incineration (MSWI) bottom ash targeting grain size and the amorphous fraction.** - DOI: 10.3389/fenvs.2023.1254205 - https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1254205/full
-- **Urban mining of municipal solid waste incineration (MSWI) residues with emphasis on bioleaching technologies: a critical review.** - DOI: 10.1007/s11356-023-26790-z - https://link.springer.com/article/10.1007/s11356-023-26790-z
-- **Grain size and mineralogical constraints on leaching in the bottom ashes from municipal solid waste incineration: a comparison of five plants in northern Italy.** - DOI: 10.3389/fenvs.2023.1179272 - https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1179272/full
-- **New insights into the migration, distribution and accumulation of micro-plastic in marine environment: A critical mechanism review.** - DOI: 10.1016/j.chemosphere.2023.138572 - https://www.sciencedirect.com/science/article/pii/S0045653523008391
-- **Sediment quality of the Ridracoli fresh water reservoir in Italy: Insights from aqua regia digestion and sequential extractions.** - DOI: 10.1016/j.scitotenv.2022.154167 - https://www.sciencedirect.com/science/article/pii/S0048969722012591
-- **Geochemical characterization of surface sediments from the Ridracoli reservoir area and surroundings, Italy. Details on bulk composition and grain size.** - DOI: 10.1016/j.gexplo.2021.106863 - https://www.sciencedirect.com/science/article/pii/S0375674221001424
-- **Assessment of Seasonal Changes in Water Chemistry of the Ridracoli Water Reservoir (Italy): Implications for Water Management.** - DOI: 10.3390/w12020581 - https://www.mdpi.com/2073-4441/12/2/581
-- **Water and sediments geochemistry and elemental fluxes on a Large Dam: case study of Ridracoli reservoir.** - DOI: 10.48676/unibo/amsdottorato/9782 - https://amsdottorato.unibo.it/id/eprint/9782/
-
----
-
-# 📂 FAIR Datasets (Zenodo DOIs)
-
-- [Zenodo Uploads](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest) – (list of publicly available datasets)
-  - **Salinity, Turbidity, Wind from the S1-GB pylon at the LTER site Delta del Po and Costa Romagnola (2012-2021)** - DOI: https://doi.org/10.5281/zenodo.10980111
-  - **Salinity, Turbidity, Wind from the E1 buoy at the LTER site Delta del Po and Costa Romagnola (2012-2021)** - DOI: https://doi.org/10.5281/zenodo.10980386
-  - **Sea temperature, Dissolved oxygen, Chlorophyll-a from the E1 buoy at the LTER site Delta del Po and Costa Romagnola (2012-2022)** - DOI: https://doi.org/10.5281/zenodo.14748898
----
+- Marine Geochemistry
+- Environmental Geochemistry
+- Sediment Quality Assessment
+- Water Chemistry
+- Freshwater Reservoirs
+- Coastal and Transitional Systems
+- Marine Monitoring
+- Ocean Observation Systems
+- Long-Term Ecological Research (LTER)
+- Essential Ocean Variables (EOV)
+- Essential Biodiversity Variables (EBV)
+- Essential Climate Variables (ECV)
+- Biogeochemical Cycles
+- Environmental Data Management
+- FAIR Data Principles
+- Mediterranean Sea Dynamics
 
 ---
 
-# 🧪 Projects
+## Academic Profiles
 
-### **Itineris – CNR**
-Environmental geochemistry, essential variables, marine monitoring systems.  
-🔗 https://itineris.cnr.it/
+### Research Identifiers
+
+- ORCID: https://orcid.org/0000-0001-5156-1869
+- Scopus Author ID: https://www.scopus.com/authid/detail.uri?authorId=57215597797
+- Web of Science Researcher Profile: https://www.webofscience.com/wos/author/record/2372178
+
+### Scholarly Profiles
+
+- Google Scholar: https://scholar.google.com/citations?user=fy4Bq1oAAAAJ
+- ResearchGate: https://www.researchgate.net/profile/Simone-Toller
+- Frontiers Loop: https://loop.frontiersin.org/people/3364125/overview
+
+### Institutional Profiles
+
+- CNR ISMAR: https://www.ismar.cnr.it
+- CNR IRIS Research Profile: https://iris.cnr.it
 
 ---
 
-# 📬 Contact
+## Selected Publications
 
-📧 simone.toller@cnr.it  
-🌐 https://simonetoller.com  
-``
+### The Italian effort toward a coordinated observation of Essential Variables (EOV, ECV, EBV) in European Marine Environments: Long-term observation in the central Mediterranean seas and Italian coasts
+
+**Frontiers in Marine Science (2026)**
+
+Keywords: Ocean Observation, Essential Variables, Marine Monitoring, Mediterranean Sea, Research Infrastructures.
+
+DOI: https://doi.org/10.3389/fmars.2026.1771479
+
+---
+
+### A Multiobservation Analysis of the 2017 Dense Water Formation Events: Climate Change, Bottom Density Currents, and Adriatic-Ionian Sea Circulation
+
+**Journal of Geophysical Research: Oceans (2025)**
+
+Keywords: Dense Water Formation, Climate Change, Ocean Circulation, Mediterranean Sea.
+
+DOI: https://doi.org/10.1029/2024JC022306
+
+---
+
+### Decadal Analysis of Chlorophyll Fluorescence, Algal Blooms and Driving Factors from a Fixed-Point Observing System in the Northern Adriatic Sea
+
+**Estuarine, Coastal and Shelf Science (2025)**
+
+Keywords: Chlorophyll Fluorescence, Algal Blooms, Adriatic Sea, Long-Term Monitoring, Marine Ecosystems.
+
+DOI: https://doi.org/10.1016/j.ecss.2025.109423
+
+---
+
+### Publication Records
+
+For the complete and continuously updated publication list:
+
+- Google Scholar: https://scholar.google.com/citations?user=fy4Bq1oAAAAJ
+- ORCID: https://orcid.org/0000-0001-5156-1869
+- Scopus: https://www.scopus.com/authid/detail.uri?authorId=57215597797
+- ResearchGate: https://www.researchgate.net/profile/Simone-Toller
+
+---
+
+## FAIR Datasets
+
+### Zenodo Repository
+
+Public datasets and research outputs are available through Zenodo.
+
+https://zenodo.org
+
+### Salinity, Turbidity and Wind Data from the S1-GB Platform (LTER Delta del Po and Costa Romagnola, 2012–2021)
+
+DOI: https://doi.org/10.5281/zenodo.10980111
+
+### Salinity, Turbidity and Wind Data from the E1 Buoy (LTER Delta del Po and Costa Romagnola, 2012–2021)
+
+DOI: https://doi.org/10.5281/zenodo.10980386
+
+### Sea Temperature, Dissolved Oxygen and Chlorophyll-a Data from the E1 Buoy (LTER Delta del Po and Costa Romagnola, 2012–2022)
+
+DOI: https://doi.org/10.5281/zenodo.14748898
+
+---
+
+## Research Infrastructures and Projects
+
+### ITINERIS
+
+National Research Infrastructure for the integrated observation and study of terrestrial and marine ecosystems.
+
+Website:
+
+https://itineris.cnr.it
+
+Main topics:
+
+- Environmental Monitoring
+- FAIR Data
+- Scientific Interoperability
+- Research Services
+- Ecosystem Observation
+- Open Science
+
+---
+
+## Keywords
+
+Marine Geochemistry · Environmental Geochemistry · Sediment Quality · Water Chemistry · Reservoirs · Coastal Systems · Marine Monitoring · Ocean Observation · Mediterranean Sea · Environmental Data · FAIR Data · LTER · Biogeochemistry · EOV · EBV · ECV · Environmental Assessment
+
+---
+
+## Contact
+
+**Simone Toller**
+
+Institute of Marine Science (ISMAR)  
+National Research Council of Italy (CNR)
+
+Email: simone.toller@cnr.it
+
+Website: https://simonetoller.com
+
+ORCID: https://orcid.org/0000-0001-5156-1869
+
+---
+
+### Citation
+
+If you use datasets, software, or scientific outputs referenced through this website, please cite the original publication or dataset DOI.
+
+---
+
+_Last updated: July 2026_

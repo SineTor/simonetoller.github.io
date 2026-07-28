@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Simone Toller
-description: Marine and Environmental Geochemist at CNR ISMAR. 
-Research on marine geochemistry, environmental monitoring, ocean observation systems, and FAIR scientific data.
+description: Marine and Environmental Geochemist at CNR ISMAR. Research on marine geochemistry, environmental monitoring, ocean observation systems, and FAIR scientific data.
 ---
 
 # Simone Toller

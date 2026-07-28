@@ -52,9 +52,9 @@ He contributes to the development and management of environmental observing syst
 
 ### Scholarly Profiles
 
-- Google Scholar: https://scholar.google.com/citations?user=fy4Bq1oAAAAJ
-- ResearchGate: https://www.researchgate.net/profile/Simone-Toller
-- Frontiers Loop: https://loop.frontiersin.org/people/3364125/overview
+- [Google Scholar] (https://scholar.google.com/citations?user=fy4Bq1oAAAAJ)
+- [ResearchGate] (https://www.researchgate.net/profile/Simone-Toller)
+- [Frontiers Loop] (https://loop.frontiersin.org/people/3364125/overview)
 
 ### Institutional Profiles
 

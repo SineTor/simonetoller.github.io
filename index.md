@@ -16,11 +16,11 @@ National Research Council of Italy (CNR)
 
 ## About
 
-I am a Marine and Environmental Geochemist at the Institute of Marine Science (ISMAR) of the National Research Council of Italy (CNR).
+Simone Toller is a Technologist and Marine Environmental Geochemist at the Institute of Marine Science (ISMAR) of the National Research Council of Italy (CNR).
 
-My research focuses on biogeochemical processes in marine, coastal, and freshwater environments, with particular interest in sediment quality assessment, water chemistry, environmental monitoring, ocean observation systems, and FAIR scientific data.
+His research focuses on the biogeochemical dynamics of marine, coastal, and freshwater systems, with particular emphasis on sediment quality assessment, water chemistry, environmental monitoring, and long-term observation of aquatic ecosystems.
 
-My activities contribute to long-term ecosystem observation, environmental assessment, research infrastructures, and open science initiatives supporting sustainable environmental management.
+He contributes to the development and management of environmental observing systems and research infrastructures, promoting the integration, interoperability, and FAIR dissemination of scientific data to support ecosystem understanding, environmental assessment, and sustainable resource management.
 
 ---
 
@@ -29,7 +29,6 @@ My activities contribute to long-term ecosystem observation, environmental asses
 - Marine Geochemistry
 - Environmental Geochemistry
 - Sediment Quality Assessment
-- Water Chemistry
 - Freshwater Reservoirs
 - Coastal and Transitional Systems
 - Environmental Monitoring
@@ -41,7 +40,6 @@ My activities contribute to long-term ecosystem observation, environmental asses
 - Biogeochemical Cycles
 - FAIR Data Principles
 - Environmental Data Management
-- Mediterranean Sea Dynamics
 
 ---
 
@@ -66,7 +64,7 @@ My activities contribute to long-term ecosystem observation, environmental asses
 
 ---
 
-## Selected Publications
+## Publications
 
 ### The Italian effort toward a coordinated observation of Essential Variables (EOV, ECV, EBV) in European Marine Environments: Long-term observation in the central Mediterranean seas and Italian coasts
 
@@ -86,6 +84,11 @@ DOI: https://doi.org/10.1029/2024JC022306
 
 DOI: https://doi.org/10.1016/j.ecss.2025.109423
 
+### Editorial: Modern management options for solid waste and by-products: sustainable treatment and environmental benefits
+
+**Estuarine, Coastal and Shelf Science (2025)**
+
+DOI: https://doi.org/10.3389/fenvs.2024.1385669
 ---
 
 ## Complete Publication Records
@@ -136,7 +139,6 @@ Research topics:
 - Scientific Interoperability
 - Environmental Research Services
 - Ecosystem Observation
-- Open Science
 
 ---
 

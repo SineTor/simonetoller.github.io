@@ -65,32 +65,29 @@ He contributes to the development and management of environmental observing syst
 
 ## Publications
 
-- [The Italian effort toward a coordinated observation of Essential Variables (EOV, ECV, EBV) in European Marine Environments](https://doi.org/10.3389/fmars.2026.1771479) — Frontiers in Marine Science (2026)
+- [The Italian effort toward a coordinated observation of Essential Variables (EOV, ECV, EBV) in European Marine Environments](https://doi.org/10.3389/fmars.2026.1771479) — Frontiers in Marine Science (**2026**)
 
-- [A Multiobservation Analysis of the 2017 Dense Water Formation Events](https://doi.org/10.1029/2024JC022306) — Journal of Geophysical Research: Oceans (2025)
+- [A Multiobservation Analysis of the 2017 Dense Water Formation Events](https://doi.org/10.1029/2024JC022306) — Journal of Geophysical Research: Oceans (**2025**)
 
-- [Decadal Analysis of Chlorophyll Fluorescence, Algal Blooms and Driving Factors from a Fixed-Point Observing System in the Northern Adriatic Sea](https://doi.org/10.1016/j.ecss.2025.109423) — Estuarine, Coastal and Shelf Science (2025)
+- [Decadal Analysis of Chlorophyll Fluorescence, Algal Blooms and Driving Factors from a Fixed-Point Observing System in the Northern Adriatic Sea](https://doi.org/10.1016/j.ecss.2025.109423) — Estuarine, Coastal and Shelf Science (**2025**)
 
-- [Editorial: Modern management options for solid waste and by-products: sustainable treatment and environmental benefits](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2024.1385669/full)
+- [Editorial: Modern management options for solid waste and by-products: sustainable treatment and environmental benefits](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2024.1385669/full) — Frontiers in Environmental Science (**2024**)
 
-- [Impact and recoverability of metals from waste: a case study on bottom ash from municipal solid waste incineration plants](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1252313/full)
+- [Impact and recoverability of metals from waste: a case study on bottom ash from municipal solid waste incineration plants](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1252313/full) — Frontiers in Environmental Science (**2023**)
 
-- [Sequential extraction procedure of municipal solid waste incineration (MSWI) bottom ash targeting grain size and the amorphous fraction](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1254205/full)
+- [Sequential extraction procedure of municipal solid waste incineration (MSWI) bottom ash targeting grain size and the amorphous fraction](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1254205/full) — Frontiers in Environmental Science (**2023**)
 
-- [Urban mining of municipal solid waste incineration (MSWI) residues with emphasis on bioleaching technologies: a critical review.](https://link.springer.com/article/10.1007/s11356-023-26790-z)
+- [Urban mining of municipal solid waste incineration (MSWI) residues with emphasis on bioleaching technologies: a critical review.](https://link.springer.com/article/10.1007/s11356-023-26790-z) — Environmental Science and Pollution Research (**2023**)
 
-- [Grain size and mineralogical constraints on leaching in the bottom ashes from municipal solid waste incineration: a comparison of five plants in northern Italy](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1179272/full)
+- [Grain size and mineralogical constraints on leaching in the bottom ashes from municipal solid waste incineration: a comparison of five plants in northern Italy](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1179272/full) — Frontiers in Environmental Science (**2023**)
 
-- [New insights into the migration, distribution and accumulation of micro-plastic in marine environment: A critical mechanism review](https://www.sciencedirect.com/science/article/pii/S0045653523008391)
+- [New insights into the migration, distribution and accumulation of micro-plastic in marine environment: A critical mechanism review](https://www.sciencedirect.com/science/article/pii/S0045653523008391) — Chemosphere (**2023**)
 
-- [Sediment quality of the Ridracoli fresh water reservoir in Italy: Insights from aqua regia digestion and sequential extractions](https://www.sciencedirect.com/science/article/pii/S0048969722012591)
+- [Sediment quality of the Ridracoli fresh water reservoir in Italy: Insights from aqua regia digestion and sequential extractions](https://www.sciencedirect.com/science/article/pii/S0048969722012591) — The Science of The Total Environment (**2022**)
 
-- [Geochemical characterization of surface sediments from the Ridracoli reservoir area and surroundings, Italy](https://www.sciencedirect.com/science/article/pii/S0375674221001424)
+- [Geochemical characterization of surface sediments from the Ridracoli reservoir area and surroundings, Italy](https://www.sciencedirect.com/science/article/pii/S0375674221001424) — Journal of Geochemical Exploration (**2021**)
 
-- [Assessment of Seasonal Changes in Water Chemistry of the Ridracoli Water Reservoir (Italy): Implications for Water Management](https://www.mdpi.com/2073-4441/12/2/581)
-
-- [Water and sediments geochemistry and elemental fluxes on a Large Dam: case study of Ridracoli reservoir](https://amsdottorato.unibo.it/id/eprint/9782/)
-  
+- [Assessment of Seasonal Changes in Water Chemistry of the Ridracoli Water Reservoir (Italy): Implications for Water Management](https://www.mdpi.com/2073-4441/12/2/581) — Water (**2020**)
 
 ---
 

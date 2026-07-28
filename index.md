@@ -46,15 +46,15 @@ He contributes to the development and management of environmental observing syst
 
 ### Research Identifiers
 
-- [ORCID]  (https://orcid.org/0000-0001-5156-1869)
+- [ORCID](https://orcid.org/0000-0001-5156-1869)
 - [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=57215597797)
 - [Web of Science Researcher Profile](https://www.webofscience.com/wos/author/record/2372178)
 
 ### Scholarly Profiles
 
-- [Google Scholar] (https://scholar.google.com/citations?user=fy4Bq1oAAAAJ)
-- [ResearchGate] (https://www.researchgate.net/profile/Simone-Toller)
-- [Frontiers Loop] (https://loop.frontiersin.org/people/3364125/overview)
+- [Google Scholar](https://scholar.google.com/citations?user=fy4Bq1oAAAAJ)
+- [ResearchGate](https://www.researchgate.net/profile/Simone-Toller)
+- [Frontiers Loop](https://loop.frontiersin.org/people/3364125/overview)
 
 ### Institutional Profiles
 

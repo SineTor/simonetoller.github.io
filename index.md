@@ -47,8 +47,8 @@ He contributes to the development and management of environmental observing syst
 
 ### Research Identifiers
 
-- [ORCID]([https://doi.org/10.3389/fmars.2026.1771479](https://orcid.org/0000-0001-5156-1869)
-- [Scopus Author ID]((https://www.scopus.com/authid/detail.uri?authorId=57215597797))
+- [ORCID](https://orcid.org/0000-0001-5156-1869)
+- [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=57215597797)
 - [Web of Science Researcher Profile](https://www.webofscience.com/wos/author/record/2372178)
 
 ### Scholarly Profiles

@@ -150,5 +150,42 @@
       "repository": "IT-IOOS",
       "source": "https://repo.it-ioos.eu/"
     }
+  ],
+  "reports": [
+    {
+      "title": "CNR-ISMAR Marine Observing System (SOM)",
+      "year": "2026",
+      "series": "CNR-ISMAR · Technical Report N° 52",
+      "doi": "10.26383/CNR-ISMAR.2026.08",
+      "source": "https://www.ismar.cnr.it/en/n-52-aprile-2026/"
+    },
+    {
+      "title": "ITINERIS' EYES - Integrating, Innovating, Evolving Research Infrastructures for Healthy and Predicted Marine Ecosystems",
+      "year": "2025",
+      "series": "CNR-ISMAR · R/V Gaia Blu Cruise Report",
+      "doi": "10.82175/IT-IOOS/VQ4G-0T11",
+      "source": "https://iris.cnr.it/handle/20.500.14243/555621"
+    },
+    {
+      "title": "Rapporto tecnico sull’incidente dell’8 dicembre 2024 al sistema meteo-oceanografico meda elastica S1-GB (Delta del Po – Adriatico Settentrionale)",
+      "year": "2025",
+      "series": "CNR-ISMAR · Technical Report N° 39",
+      "doi": "10.26383/CNR-ISMAR.2025.04",
+      "source": "https://www.ismar.cnr.it/n-39-marzo-2025/"
+    },
+    {
+      "title": "Rapporto sulle attività svolte durante la campagna oceanografica SeaGMA2023 (09 marzo - 16 marzo 2023)",
+      "year": "2023",
+      "series": "CNR-ISMAR · Technical Report N° 22",
+      "doi": "10.26383/CNR-ISMAR.2023.5",
+      "source": "https://iris.cnr.it/handle/20.500.14243/467257"
+    },
+    {
+      "title": "Rapporto sulle attività svolte durante la campagna oceanografica SeaGMA2022 (28 aprile - 05 maggio 2022)",
+      "year": "2022",
+      "series": "CNR-ISMAR · Technical Report N° 15",
+      "doi": "10.26383/CNR-ISMAR.2022.7",
+      "source": "https://iris.cnr.it/handle/20.500.14243/519475"
+    }
   ]
 }

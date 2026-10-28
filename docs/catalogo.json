@@ -1,0 +1,130 @@
+{
+  "source": "https://simonetoller.com/",
+  "updated": "2026-10-28",
+  "person": {
+    "@type": "Person",
+    "@id": "https://simonetoller.com/#simone-toller",
+    "name": "Simone Toller",
+    "jobTitle": "Tecnologo",
+    "description": "Tecnologo CNR-ISMAR, attivo nella ricerca in geochimica marina e ambientale e nei sistemi di osservazione del mare.",
+    "image": "https://simonetoller.com/assets/simone-toller.png",
+    "url": "https://simonetoller.com/",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0000-0001-5156-1869"
+    },
+    "sameAs": [
+      "https://orcid.org/0000-0001-5156-1869",
+      "https://www.scopus.com/authid/detail.uri?authorId=57215597797",
+      "https://www.webofscience.com/wos/author/record/2372178",
+      "https://scholar.google.com/citations?user=fy4Bq1oAAAAJ",
+      "https://www.researchgate.net/profile/Simone-Toller"
+    ],
+    "worksFor": {
+      "@type": "Organization",
+      "name": "CNR – Istituto di Scienze Marine (ISMAR)",
+      "url": "https://www.ismar.cnr.it/"
+    }
+  },
+  "publications": [
+    {
+      "title": "The Italian effort toward a coordinated observation of Essential Variables (EOV, ECV, EBV) in European Marine Environments",
+      "url": "https://doi.org/10.3389/fmars.2026.1771479",
+      "journal": "Frontiers in Marine Science",
+      "year": "2026",
+      "path": "/pubblicazioni/the-italian-effort-toward-a-coordinated-observation-of-essential-variables-eov-ecv-ebv-in-european-marine-environments/"
+    },
+    {
+      "title": "A Multiobservation Analysis of the 2017 Dense Water Formation Events",
+      "url": "https://doi.org/10.1029/2024JC022306",
+      "journal": "Journal of Geophysical Research: Oceans",
+      "year": "2025",
+      "path": "/pubblicazioni/a-multiobservation-analysis-of-the-2017-dense-water-formation-events/"
+    },
+    {
+      "title": "Decadal Analysis of Chlorophyll Fluorescence, Algal Blooms and Driving Factors from a Fixed-Point Observing System in the Northern Adriatic Sea",
+      "url": "https://doi.org/10.1016/j.ecss.2025.109423",
+      "journal": "Estuarine, Coastal and Shelf Science",
+      "year": "2025",
+      "path": "/pubblicazioni/decadal-analysis-of-chlorophyll-fluorescence-algal-blooms-and-driving-factors-from-a-fixed-point-observing-system-in-the-northern-adriatic-sea/"
+    },
+    {
+      "title": "Editorial: Modern management options for solid waste and by-products: sustainable treatment and environmental benefits",
+      "url": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2024.1385669/full",
+      "journal": "Frontiers in Environmental Science",
+      "year": "2024",
+      "path": "/pubblicazioni/editorial-modern-management-options-for-solid-waste-and-by-products-sustainable-treatment-and-environmental-benefits/"
+    },
+    {
+      "title": "Impact and recoverability of metals from waste: a case study on bottom ash from municipal solid waste incineration plants",
+      "url": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1252313/full",
+      "journal": "Frontiers in Environmental Science",
+      "year": "2023",
+      "path": "/pubblicazioni/impact-and-recoverability-of-metals-from-waste-a-case-study-on-bottom-ash-from-municipal-solid-waste-incineration-plants/"
+    },
+    {
+      "title": "Sequential extraction procedure of municipal solid waste incineration (MSWI) bottom ash targeting grain size and the amorphous fraction",
+      "url": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1254205/full",
+      "journal": "Frontiers in Environmental Science",
+      "year": "2023",
+      "path": "/pubblicazioni/sequential-extraction-procedure-of-municipal-solid-waste-incineration-mswi-bottom-ash-targeting-grain-size-and-the-amorphous-fraction/"
+    },
+    {
+      "title": "Urban mining of municipal solid waste incineration (MSWI) residues with emphasis on bioleaching technologies: a critical review.",
+      "url": "https://link.springer.com/article/10.1007/s11356-023-26790-z",
+      "journal": "Environmental Science and Pollution Research",
+      "year": "2023",
+      "path": "/pubblicazioni/urban-mining-of-municipal-solid-waste-incineration-mswi-residues-with-emphasis-on-bioleaching-technologies-a-critical-review/"
+    },
+    {
+      "title": "Grain size and mineralogical constraints on leaching in the bottom ashes from municipal solid waste incineration: a comparison of five plants in northern Italy",
+      "url": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1179272/full",
+      "journal": "Frontiers in Environmental Science",
+      "year": "2023",
+      "path": "/pubblicazioni/grain-size-and-mineralogical-constraints-on-leaching-in-the-bottom-ashes-from-municipal-solid-waste-incineration-a-comparison-of-five-plants-in-northern-italy/"
+    },
+    {
+      "title": "New insights into the migration, distribution and accumulation of micro-plastic in marine environment: A critical mechanism review",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0045653523008391",
+      "journal": "Chemosphere",
+      "year": "2023",
+      "path": "/pubblicazioni/new-insights-into-the-migration-distribution-and-accumulation-of-micro-plastic-in-marine-environment-a-critical-mechanism-review/"
+    },
+    {
+      "title": "Sediment quality of the Ridracoli fresh water reservoir in Italy: Insights from aqua regia digestion and sequential extractions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0048969722012591",
+      "journal": "The Science of The Total Environment",
+      "year": "2022",
+      "path": "/pubblicazioni/sediment-quality-of-the-ridracoli-fresh-water-reservoir-in-italy-insights-from-aqua-regia-digestion-and-sequential-extractions/"
+    },
+    {
+      "title": "Geochemical characterization of surface sediments from the Ridracoli reservoir area and surroundings, Italy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0375674221001424",
+      "journal": "Journal of Geochemical Exploration",
+      "year": "2021",
+      "path": "/pubblicazioni/geochemical-characterization-of-surface-sediments-from-the-ridracoli-reservoir-area-and-surroundings-italy/"
+    },
+    {
+      "title": "Assessment of Seasonal Changes in Water Chemistry of the Ridracoli Water Reservoir (Italy): Implications for Water Management",
+      "url": "https://www.mdpi.com/2073-4441/12/2/581",
+      "journal": "Water",
+      "year": "2020",
+      "path": "/pubblicazioni/assessment-of-seasonal-changes-in-water-chemistry-of-the-ridracoli-water-reservoir-italy-implications-for-water-management/"
+    }
+  ],
+  "datasets": [
+    {
+      "title": "Salinity, Turbidity and Wind Data from the S1-GB Platform (2012–2021)",
+      "url": "https://doi.org/10.5281/zenodo.10980111"
+    },
+    {
+      "title": "Salinity, Turbidity and Wind Data from the E1 Buoy (2012–2021)",
+      "url": "https://doi.org/10.5281/zenodo.10980386"
+    },
+    {
+      "title": "Sea Temperature, Dissolved Oxygen and Chlorophyll-a Data from the E1 Buoy (2012–2022)",
+      "url": "https://doi.org/10.5281/zenodo.14748898"
+    }
+  ]
+}

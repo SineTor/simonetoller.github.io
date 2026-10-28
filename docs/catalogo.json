@@ -29,6 +29,23 @@
   },
   "publications": [
     {
+      "title": "High-temperature treatment and partial vitrification of fine-grained municipal solid waste incineration bottom ash: Mineralogical and chemical behaviour and reuse potential",
+      "journal": "Waste Management",
+      "year": "2027",
+      "url": "https://doi.org/10.1016/j.wasman.2026.115865",
+      "note": "Pubblicato online nel 2026",
+      "source": "https://orcid.org/0000-0001-5156-1869",
+      "path": "/pubblicazioni/high-temperature-treatment-and-partial-vitrification-of-fine-grained-municipal-solid-waste-incineration-bottom-ash-mineralogical-and-chemical-behaviour-and-reuse-potential/"
+    },
+    {
+      "title": "A review and assessment of Copernicus water quality and temperature products in coastal waters: insights from the Adriatic Sea",
+      "journal": "Frontiers in Marine Science",
+      "year": "2026",
+      "url": "https://doi.org/10.3389/fmars.2026.1913182",
+      "source": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1913182/abstract",
+      "path": "/pubblicazioni/a-review-and-assessment-of-copernicus-water-quality-and-temperature-products-in-coastal-waters-insights-from-the-adriatic-sea/"
+    },
+    {
       "title": "The Italian effort toward a coordinated observation of Essential Variables (EOV, ECV, EBV) in European Marine Environments",
       "url": "https://doi.org/10.3389/fmars.2026.1771479",
       "journal": "Frontiers in Marine Science",
@@ -125,6 +142,13 @@
     {
       "title": "Sea Temperature, Dissolved Oxygen and Chlorophyll-a Data from the E1 Buoy (2012–2022)",
       "url": "https://doi.org/10.5281/zenodo.14748898"
+    },
+    {
+      "title": "CARTHE drifters deployment within the ITINERIS EYES experiment in the Mediterranean Sea",
+      "url": "https://doi.org/10.82175/IT-IOOS/BQ1A-GV59",
+      "year": "2026",
+      "repository": "IT-IOOS",
+      "source": "https://repo.it-ioos.eu/"
     }
   ]
 }
